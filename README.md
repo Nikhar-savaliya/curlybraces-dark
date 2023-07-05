@@ -21,7 +21,7 @@
 <br>
 
 ## CSS
-![preview image](img\code-css.png)
+![alt](img\code-css.png)
 
 <br>
 
