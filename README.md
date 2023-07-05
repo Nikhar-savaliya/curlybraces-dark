@@ -1,16 +1,16 @@
 # [CurlyBraces dark Theme](https://github.com/Nikhar-savaliya/curlybraces-dark) 
 <br>
 
-## feel free to contribute **↓**
-### **github repository :**  https://github.com/Nikhar-savaliya/curlybraces-dark
+## Feel free to contribute **↓**
+### **GitHub repository :**  https://github.com/Nikhar-savaliya/curlybraces-dark
 <br>
 <hr>
 <br>
 
 ## **Features**
-    - custom color Scheme
+    - custom Color Scheme
     - Bold and Italic Comments
-    - customized CSS units color and font-style
+    - customized CSS unit's color and font-style
 
 ## ScreenShots
 <hr>
