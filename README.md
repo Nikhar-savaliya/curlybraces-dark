@@ -16,32 +16,32 @@
 <hr>
 
 ## HTML
-<img src="img\code-html.png" width='800px'>
+<img src="https://github.com/Nikhar-savaliya/curlybraces-dark/blob/main/img/code-html.png?raw=true" width='800px'>
 
 <br>
 
 ## CSS
-<img src="img\code-css.png" width='800px'>
+<img src="https://github.com/Nikhar-savaliya/curlybraces-dark/blob/main/img/code-css.png?raw=true" width='800px'>
 
 <br>
 
 ## JS
-<img src="img\code-JavaScript.png" width='800px'>
+<img src="https://github.com/Nikhar-savaliya/curlybraces-dark/blob/main/img/code-JavaScript.png?raw=true" width='800px'>
 
 <br>
 
 ## Java
-<img src="img\code-Java.png" width='800px'>
+<img src="https://github.com/Nikhar-savaliya/curlybraces-dark/blob/main/img/code-Java.png?raw=true" width='800px'>
 
 <br>
 
 ## C++
-<img src="img\code-c++.png" width='800px'>
+<img src="https://github.com/Nikhar-savaliya/curlybraces-dark/blob/main/img/code-c++.png?raw=true" width='800px'>
 
 <br>
 
 ## MarkDown
-<img src="img\code-markdown.png" width='800px'>
+<img src="https://github.com/Nikhar-savaliya/curlybraces-dark/blob/main/img/code-markdown.png?raw=true" width='800px'>
 
 <br>
 
