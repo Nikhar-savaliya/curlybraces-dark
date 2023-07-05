@@ -16,8 +16,7 @@
 <hr>
 
 ## HTML
-<img src="https://github.com/Nikhar-savaliya/curlybraces-dark/blob/main/img/code-html.png?raw=true" width='800px'>
-
+![preview](.\img\code-c++.png)
 <br>
 
 ## CSS
