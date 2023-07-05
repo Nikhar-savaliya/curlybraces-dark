@@ -16,7 +16,7 @@
 <hr>
 
 ## HTML
-<img src="img/code-html.png">
+<img src="img\code-html.png">
 
 <br>
 
