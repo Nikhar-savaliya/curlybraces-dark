@@ -16,32 +16,32 @@
 <hr>
 
 ## HTML
-![alt](img\code-html.png)
+![alt](img/code-html.png)
 
 <br>
 
 ## CSS
-![alt](img\code-css.png)
+![alt](img/code-css.png)
 
 <br>
 
 ## JS
-![alt](img\code-Javascript.png)
+![alt](img/code-Javascript.png)
 
 <br>
 
 ## Java
-![alt](img\code-Java.png)
+![alt](img/code-Java.png)
 
 <br>
 
 ## C++
-![alt](img\code-c++.png)
+![alt](img/code-c++.png)
 
 <br>
 
 ## MarkDown
-![alt](img\code-markdown.png)
+![alt](img/code-markdown.png)
 
 <br>
 
