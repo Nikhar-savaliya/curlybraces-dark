@@ -4,6 +4,11 @@
   "description": "Dark theme for VS code.",
   "version": "0.0.1",
   "publisher": "NikharSavaliya",
+  "icon": "img/CurlyBraces-Dark.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nikhar-savaliya/curlybraces-dark"
+  },
   "engines": {
     "vscode": "^1.79.0"
   },
