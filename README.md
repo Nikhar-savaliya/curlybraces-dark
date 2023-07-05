@@ -16,32 +16,32 @@
 <hr>
 
 ## HTML
-<img src="img\code-html.png">
+<img src="img\code-html.png" width='800px'>
 
 <br>
 
 ## CSS
-<img src="img\code-css.png">
+<img src="img\code-css.png" width='800px'>
 
 <br>
 
 ## JS
-<img src="img\code-JavaScript.png">
+<img src="img\code-JavaScript.png" width='800px'>
 
 <br>
 
 ## Java
-<img src="img\code-Java.png">
+<img src="img\code-Java.png" width='800px'>
 
 <br>
 
 ## C++
-<img src="img\code-c++.png">
+<img src="img\code-c++.png" width='800px'>
 
 <br>
 
 ## MarkDown
-<img src="img\code-markdown.png">
+<img src="img\code-markdown.png" width='800px'>
 
 <br>
 
