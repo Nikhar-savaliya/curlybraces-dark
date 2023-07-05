@@ -26,7 +26,7 @@
 <br>
 
 ## JS
-![alt](img/code-Javascript.png)
+![alt](img/code-JavaScript.png)
 
 <br>
 
