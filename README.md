@@ -21,27 +21,27 @@
 <br>
 
 ## CSS
-![alt](img/code-css.png)
+<img src="img\code-css.png">
 
 <br>
 
 ## JS
-![alt](img/code-JavaScript.png)
+<img src="img\code-JavaScript.png">
 
 <br>
 
 ## Java
-![alt](img/code-Java.png)
+<img src="img\code-Java.png">
 
 <br>
 
 ## C++
-![alt](img/code-c++.png)
+<img src="img\code-c++.png">
 
 <br>
 
 ## MarkDown
-![alt](img/code-markdown.png)
+<img src="img\code-markdown.png">
 
 <br>
 
