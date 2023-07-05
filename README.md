@@ -16,32 +16,27 @@
 <hr>
 
 ## HTML
-<img src="https://github.com/Nikhar-savaliya/curlybraces-dark/blob/main/img/code-html.png?raw=true" width='800px'>
+![ScreenShot](./img/code-html.png)
 <br>
 
 ## CSS
-<img src="https://github.com/Nikhar-savaliya/curlybraces-dark/blob/main/img/code-css.png?raw=true" width='800px'>
-
+![ScreenShot](./img/code-css.png)
 <br>
 
 ## JS
-<img src="https://github.com/Nikhar-savaliya/curlybraces-dark/blob/main/img/code-JavaScript.png?raw=true" width='800px'>
-
+![ScreenShot](./img/code-JavaScript.png)
 <br>
 
 ## Java
-<img src="https://github.com/Nikhar-savaliya/curlybraces-dark/blob/main/img/code-Java.png?raw=true" width='800px'>
-
+![ScreenShot](./img/code-Java.png)
 <br>
 
 ## C++
-<img src="https://github.com/Nikhar-savaliya/curlybraces-dark/blob/main/img/code-c++.png?raw=true" width='800px'>
-
+![ScreenShot](./img/code-c++.png)
 <br>
 
 ## MarkDown
-<img src="https://github.com/Nikhar-savaliya/curlybraces-dark/blob/main/img/code-markdown.png?raw=true" width='800px'>
-
+![ScreenShot](./img/code-markdown.png)
 <br>
 
 

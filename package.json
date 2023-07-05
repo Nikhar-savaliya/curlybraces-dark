@@ -9,11 +9,6 @@
     "type": "git",
     "url": "https://github.com/Nikhar-savaliya/curlybraces-dark"
   },
-  "vsce": {
-    "baseImagesUrl": "https://github.com/Nikhar-savaliya/curlybraces-dark/blob/main/img",
-    "dependencies": true,
-    "yarn": false
-  },
   "engines": {
     "vscode": "^1.79.0"
   },
