@@ -5,10 +5,6 @@
   "version": "0.3.0",
   "publisher": "NikharSavaliya",
   "icon": "img/CurlyBraces-Dark.png",
-  "author": {
-    "name": "Nikhar savaliya",
-    "url": "https://github.com/Nikhar-savaliya/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Nikhar-savaliya/curlybraces-dark"
