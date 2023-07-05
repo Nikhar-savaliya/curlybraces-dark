@@ -16,7 +16,7 @@
 <hr>
 
 ## HTML
-![alt](img/code-html.png)
+<img src="img/code-html.png">
 
 <br>
 
