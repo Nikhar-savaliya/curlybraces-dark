@@ -20,7 +20,7 @@
 <br>
 
 ## CSS
-![ScreenShot](./img/code-css.png)
+![ScreenShot](./code-css.png)
 <br>
 
 ## JS
