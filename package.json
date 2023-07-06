@@ -2,24 +2,28 @@
   "name": "curlybraces-dark",
   "displayName": "CurlyBraces Dark",
   "description": "Dark theme for VS code.",
-  "version": "0.7.1",
+  "version": "0.6.0",
   "publisher": "NikharSavaliya",
   "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Nikhar-savaliya/curlybraces-dark"
   },
+
   "engines": {
     "vscode": "^1.79.0"
   },
+
   "keywords": [
     "dark",
     "dark theme",
     "colorful theme"
   ],
+
   "categories": [
     "Themes"
   ],
+
   "contributes": {
     "themes": [
       {
@@ -28,5 +32,11 @@
         "path": "./themes/curlyBracesDark.json"
       }
     ]
+  },
+
+  "pricing": "Free",
+
+  "sponsor": {
+    "url": "https://github.com/Nikhar-savaliya"
   }
 }
