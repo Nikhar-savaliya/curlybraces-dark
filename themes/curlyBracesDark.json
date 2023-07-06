@@ -115,7 +115,7 @@
 		{
 			"name": "loops",
 			"scope": [
-				"keyword.control.loop.",
+				"keyword.control.loop."
 			],
 			"settings": {
 				"foreground": "#6AA092",
@@ -312,7 +312,7 @@
 		{
 			"name": "CSS class",
 			"scope": [
-				"entity.other.attribute-name.class.css",
+				"entity.other.attribute-name.class.css"
 			],
 			"settings": {
 				"foreground": "#FFCB6B"
@@ -321,7 +321,7 @@
 		{
 			"name": "CSS id",
 			"scope": [
-				"entity.other.attribute-name.id.css",
+				"entity.other.attribute-name.id.css"
 			],
 			"settings": {
 				"foreground": "#6AA092"
@@ -330,7 +330,7 @@
 		{
 			"name": "CSS selector",
 			"scope": [
-				"keyword.other.unit",
+				"keyword.other.unit"
 			],
 			"settings": {
 				"foreground": "#6AA092",
@@ -412,7 +412,7 @@
 		{
 			"name": "CSS Classes",
 			"scope": [
-				"entity.other.attribute-name.class",
+				"entity.other.attribute-name.class"
 				
 			],
 			"settings": {
@@ -589,7 +589,7 @@
 		{
 			"name": "conditions",
 			"scope":[
-				"keyword.control.conditional.js",
+				"keyword.control.conditional.js"
 			],
 			"settings": {
 				"foreground": "#6AA092",
@@ -791,7 +791,7 @@
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
-		},
+		}
 		
 	]
 }

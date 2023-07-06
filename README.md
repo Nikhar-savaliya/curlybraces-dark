@@ -16,27 +16,27 @@
 <hr>
 
 ## HTML
-![ScreenShot](https://drive.google.com/file/d/1KcBhexN74iQ2kDKCL71uRKWw1sRUQyCn/view?usp=drive_link)
+![ScreenShot](./screenshots/code-html.png)
 <br>
 
 ## CSS
-![ScreenShot](./code-css.png)
+![ScreenShot](./screenshots/code-css.png)
 <br>
 
 ## JS
-![ScreenShot](./img/code-JavaScript.png)
+![ScreenShot](./screenshots/code-JavaScript.png)
 <br>
 
 ## Java
-![ScreenShot](./img/code-Java.png)
+![ScreenShot](./screenshots/code-Java.png)
 <br>
 
 ## C++
-![ScreenShot](./img/code-c++.png)
+![ScreenShot](./screenshots/code-c++.png)
 <br>
 
 ## MarkDown
-![ScreenShot](./img/code-markdown.png)
+![ScreenShot](./screenshots/code-markdown.png)
 <br>
 
 

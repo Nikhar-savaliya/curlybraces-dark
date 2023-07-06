@@ -4,7 +4,7 @@
   "description": "Dark theme for VS code.",
   "version": "0.5.4",
   "publisher": "NikharSavaliya",
-  "icon": "img/CurlyBraces-Dark.png",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Nikhar-savaliya/curlybraces-dark"
@@ -25,7 +25,7 @@
       {
         "label": "Curly Braces Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Curly Braces Dark-color-theme.json"
+        "path": "./themes/curlyBracesDark.json"
       }
     ]
   }
