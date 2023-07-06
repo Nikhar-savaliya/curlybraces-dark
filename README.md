@@ -16,27 +16,21 @@
 <hr>
 
 ## HTML
-![ScreenShot](./screenshots/code-html.png)
+<img src="https://example.com/path/to/image.png" alt="Alt Text" width="600">
 <br>
 
 ## CSS
-![ScreenShot](./screenshots/code-css.png)
+<img src="https://example.com/path/to/image.png" alt="Alt Text" width="600">
+
 <br>
 
 ## JS
-![ScreenShot](./screenshots/code-JavaScript.png)
-<br>
+<img src="https://example.com/path/to/image.png" alt="Alt Text" width="600">
 
-## Java
-![ScreenShot](https://raw.githubusercontent.com/Nikhar-savaliya/curlybraces-dark/main/screenshots/code-Java.png?token=GHSAT0AAAAAACEVB3XEZKQMAS4NNDLAWY2OZFGJXKQ)
-<br>
-
-## C++
-![ScreenShot](./screenshots/code-c++.png)
 <br>
 
 ## MarkDown
-![ScreenShot](./screenshots/code-markdown.png)
+<img src="https://example.com/path/to/image.png" alt="Alt Text" width="600">
 <br>
 
 
