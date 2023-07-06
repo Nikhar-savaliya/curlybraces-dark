@@ -28,7 +28,7 @@
 <br>
 
 ## Java
-![ScreenShot](./screenshots/code-Java.png)
+![ScreenShot](https://github.com/Nikhar-savaliya/curlybraces-dark/blob/main/screenshots/code-Java.png?raw=true)
 <br>
 
 ## C++
