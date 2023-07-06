@@ -16,7 +16,7 @@
 <hr>
 
 ## HTML
-![ScreenShot](./img/code-html.png)
+![ScreenShot](https://drive.google.com/file/d/1KcBhexN74iQ2kDKCL71uRKWw1sRUQyCn/view?usp=drive_link)
 <br>
 
 ## CSS
