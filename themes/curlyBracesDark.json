@@ -79,7 +79,6 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic bold",
 				"foreground": "#cfcfc2a1"
 			}
 		},
@@ -90,7 +89,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#fff"
+				"foreground": "#FFCB6B"
 			}
 		},
 		{
@@ -426,6 +425,15 @@
 			],
 			"settings": {
 				"foreground": "#BDADEA"
+			}
+		},
+		{
+			"name": "js functions",
+			"scope": [
+				"variable.other.object.js"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
 			}
 		},
 		{
