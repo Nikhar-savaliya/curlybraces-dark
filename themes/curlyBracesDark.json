@@ -86,6 +86,7 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
+				"variable.other.readwrite",
 				"string constant.other.placeholder"
 			],
 			"settings": {
@@ -104,8 +105,7 @@
 		{
 			"name": "array literals",
 			"scope": [
-				"meta.array.literal",
-				"variable.other.readwrite"
+				"meta.array.literal"
 			],
 			"settings": {
 				"foreground": "#B2CCD6"
@@ -194,7 +194,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#B2CCD6"
 			}
 		},
 		{
